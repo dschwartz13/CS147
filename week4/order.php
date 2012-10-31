@@ -23,10 +23,14 @@
 			?>
 		<div class="orderarea">
 		<!-- This is where we'll put our form -->
+<<<<<<< HEAD
 		<form action="submit.php">
 		<input type="text" name="blah">
 		
 		</form>
+=======
+		
+>>>>>>> 87f6dd0a2ecc9b96785e4f0d9fc059e388b8090b
 		
 		</div>
 			
